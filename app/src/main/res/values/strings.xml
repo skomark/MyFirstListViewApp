@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">MyFirstListViewApp</string>
+  <string name="action_settings">Settings</string>
+  <string-array name="list_view_items">
+    <item>Item 01</item>
+    <item>Item 02</item>
+    <item>Item 03</item>
+    <item>Item 04</item>
+    <item>Item 05</item>
+    <item>Item 06</item>
+    <item>Item 07</item>
+    <item>Item 08</item>
+    <item>Item 09</item>
+    <item>Item 10</item>
+  </string-array>
+  <string name="toast_msg_click">Clicked on</string>
+  <string name="title_activity_list_view_introduction_activity_no_impl">
+    ListViewIntroductionActivityNoImpl
+  </string>
+
+</resources>
